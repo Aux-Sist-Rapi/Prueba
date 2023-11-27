@@ -1,5 +1,4 @@
 # Prueba
  
-hola
-amigo
+hola amigo
 como estas
